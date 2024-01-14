@@ -26,11 +26,11 @@
     },
     "depends": {
         "java": ">=17",
-        "fabricloader": ">=0.14.22",
-        "fabric": ">=0.76.0",
-        "minecraft": "1.19.2",
-        "origins": ">=1.7.1",
-        "pehkui": ">=3.7.2"
+        "fabricloader": ">=0.15.0",
+        "fabric": ">=0.91.0",
+        "minecraft": "1.20.1",
+        "origins": ">=1.10.0",
+        "pehkui": ">=3.7.12"
     },
     "suggests": {
         "another-mod": "*"
